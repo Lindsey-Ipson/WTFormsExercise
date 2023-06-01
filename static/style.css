@@ -1,0 +1,12 @@
+img {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.intro {
+    margin: 20px;
+}
+
+.pet-listing {
+    margin: 40px;
+}
